@@ -1,7 +1,3 @@
-Claro! Aqui está uma versão aprimorada do seu `README.md` para o projeto [`repositorio_backend`](https://github.com/Perdigao-wander/repositorio_backend), com foco em clareza, estrutura e boas práticas:
-
----
-
 ```markdown
 # 📦 Repositório Backend
 
@@ -102,22 +98,12 @@ O servidor será iniciado em `http://localhost:3000` (ou porta definida no `.env
    ```
 5. Abra um Pull Request.
 
-## 🛡️ Licença
-
-Este projeto é de uso interno da IGF e não possui uma licença pública definida. Para uso externo, entre em contato com os autores.
-
 ## 👨‍💻 Autor
 
-Desenvolvido por **Wanderley Perdigão**
-📧 \[[wanderley@email.com](mailto:wanderley@email.com)] (ou substitua pelo canal de contato desejado)
+Desenvolvido por **Wanderley Perdigão Neto**
+📧 \[[wanderley@email.com](mailto:oliveirawander1998@email.com)]
 
 ---
 
 > Sinta-se à vontade para sugerir melhorias ou relatar problemas.
-
-```
-
----
-
-Se quiser, posso adaptar esse README para incluir exemplos de endpoints da API, descrição das entidades ou fluxos de autenticação. Deseja adicionar mais alguma dessas partes?
 ```
